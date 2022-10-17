@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Digi-core",
+  "version": "1.0",
+
+  "default_locale": "en",
+  "description": "Adding digi-core components",
+  "icons": {
+    "16": "/assets/favicon-16x16.png",
+    "32": "/assets/favicon-32x32.png",
+    "192":"/assets/android-chrome-192x192.png"
+  },
+  "page_action": {
+    "default_icon": {
+      "16": "/assets/favicon-16x16.png",
+      "32": "/assets/favicon-32x32.png",
+      "192":"/assets/android-chrome-192x192.png"
+    },
+    "default_index": "index.html"
+  },
+
+  "author": "Viyan Ateaa"
+}
